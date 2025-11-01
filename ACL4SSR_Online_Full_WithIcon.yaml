@@ -533,7 +533,7 @@ rule-providers:
     format: text
     type: http
   DirectWogg:
-    url: https://cdn.jsdelivr.net/gh/celin1286/ACL4SSR@main/Wogg/DirectWogg.list
+    url: https://down.nigx.cn/raw.githubusercontent.com/celin1286/ACL4SSR/refs/heads/main/Wogg/DirectWogg.list
     path: ./ruleset/DirectWogg.list
     behavior: classical
     interval: 86400
@@ -547,7 +547,7 @@ rule-providers:
     format: text
     type: http
   ProxyWogg:
-    url: https://cdn.jsdelivr.net/gh/celin1286/ACL4SSR@main/Wogg/ProxyWogg.list
+    url: https://down.nigx.cn/raw.githubusercontent.com/celin1286/ACL4SSR/refs/heads/main/Wogg/ProxyWogg.list
     path: ./ruleset/ProxyWogg.list
     behavior: classical
     interval: 86400
