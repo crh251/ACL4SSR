@@ -4,6 +4,7 @@
 # MyList && Other
 DOMAIN-SUFFIX,ubuntu.com
 DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-KEYWORD,cloudflare
 
 # cloudflare tunnel
 DOMAIN-SUFFIX,cfargotunnel.com
