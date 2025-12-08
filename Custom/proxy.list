@@ -7,6 +7,7 @@ DOMAIN-KEYWORD,cloudflare
 
 # cloudflare tunnel
 DOMAIN-SUFFIX,cfargotunnel.com
+DOMAIN-SUFFIX,argotunnel.com
 
 # frp
 DOMAIN,frp.freefrp.net
