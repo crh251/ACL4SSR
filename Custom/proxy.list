@@ -12,5 +12,4 @@ DOMAIN-KEYWORD,argotunnel
 
 # frp
 DOMAIN,frp.freefrp.net
-DOMAIN,hk2.afrp.net
-DOMAIN,hk3.afrp.net
+DOMAIN-SUFFIX,afrp.net
