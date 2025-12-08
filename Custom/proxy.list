@@ -6,8 +6,9 @@ DOMAIN-SUFFIX,ubuntu.com
 DOMAIN-KEYWORD,cloudflare
 
 # cloudflare tunnel
-DOMAIN-SUFFIX,cfargotunnel.com
-DOMAIN-SUFFIX,argotunnel.com
+DOMAIN-KEYWORD,argotunnel
+# DOMAIN-SUFFIX,cfargotunnel.com
+# DOMAIN-SUFFIX,argotunnel.com
 
 # frp
 DOMAIN,frp.freefrp.net
