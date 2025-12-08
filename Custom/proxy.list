@@ -3,8 +3,12 @@
 
 # MyList && Other
 DOMAIN-SUFFIX,ubuntu.com
-DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-KEYWORD,cloudflare
 
 # cloudflare tunnel
 DOMAIN-SUFFIX,cfargotunnel.com
+
+# frp
+DOMAIN,frp.freefrp.net
+DOMAIN,hk2.afrp.net
+DOMAIN,hk3.afrp.net
