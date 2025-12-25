@@ -1,3 +1,3 @@
 # 只有x86_fn使用的proxy list，下面的都走proxy
 
-GEOIP,AU,PROXY
+
