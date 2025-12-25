@@ -4,3 +4,48 @@ DOMAIN-SUFFIX,cloudflare.dev
 DOMAIN-SUFFIX,feiniaoyun.xyz
 DOMAIN-SUFFIX,zerossl.com
 DOMAIN-SUFFIX,kr-se-cncn-1.ofalias.net
+
+# === 北美 ===
+GEOIP,US   # 美国
+GEOIP,CA   # 加拿大
+
+# === 欧洲主要发达国家 ===
+GEOIP,GB   # 英国
+GEOIP,DE   # 德国
+GEOIP,FR   # 法国
+GEOIP,NL   # 荷兰
+GEOIP,CH   # 瑞士
+GEOIP,SE   # 瑞典
+GEOIP,NO   # 挪威
+GEOIP,FI   # 芬兰
+GEOIP,DK   # 丹麦
+GEOIP,IT   # 意大利
+GEOIP,ES   # 西班牙
+GEOIP,BE   # 比利时
+GEOIP,AT   # 奥地利
+GEOIP,IE   # 爱尔兰
+GEOIP,RU   # 俄罗斯
+
+# === 东亚 ===
+GEOIP,JP   # 日本
+GEOIP,KR   # 韩国
+GEOIP,HK   # 香港
+GEOIP,TW   # 台湾
+
+# === 东南亚 ===
+GEOIP,SG   # 新加坡
+GEOIP,MY   # 马来西亚
+GEOIP,PH   # 菲律宾
+GEOIP,ID   # 印度尼西亚
+
+# === 南亚 ===
+GEOIP,IN   # 印度
+
+# === 大洋洲 ===
+GEOIP,AU   # 澳大利亚
+GEOIP,NZ   # 新西兰
+
+# === 中东 ===
+GEOIP,AE   # 阿联酋
+
+
