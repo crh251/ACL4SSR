@@ -31,6 +31,8 @@ GEOIP,JP   # 日本
 GEOIP,KR   # 韩国
 GEOIP,HK   # 香港
 GEOIP,TW   # 台湾
+GEOIP,VN   # 越南
+GEOIP,TH   # 泰国
 
 # === 东南亚 ===
 GEOIP,SG   # 新加坡
