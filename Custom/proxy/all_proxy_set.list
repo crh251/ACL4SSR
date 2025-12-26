@@ -1,6 +1,7 @@
 # 所有设备都使用的proxy list，下面的都走proxy
 
 DOMAIN-SUFFIX,cloudflare.dev
+DOMAIN-SUFFIX,argotunnel.com
 DOMAIN-SUFFIX,feiniaoyun.xyz
 DOMAIN-SUFFIX,zerossl.com
 DOMAIN-SUFFIX,kr-se-cncn-1.ofalias.net
