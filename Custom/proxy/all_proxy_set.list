@@ -4,6 +4,13 @@ DOMAIN-SUFFIX,cloudflare.dev
 DOMAIN-SUFFIX,argotunnel.com
 DOMAIN-SUFFIX,feiniaoyun.xyz
 DOMAIN-SUFFIX,zerossl.com
+DOMAIN-SUFFIX,xg-5.frp.one
+DOMAIN-SUFFIX,oes-tgo-cf.ljhx.fun
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,gemini.google.com
+
+
+# Others
 DOMAIN-SUFFIX,kr-se-cncn-1.ofalias.net
 DOMAIN-SUFFIX,cdn.yzzy30-play.com
 DOMAIN-SUFFIX,high23-playback.com
@@ -11,7 +18,3 @@ DOMAIN-SUFFIX,svip.high23-playback.com
 DOMAIN-SUFFIX,qsstvw.com
 DOMAIN-SUFFIX,play-cdn7.com
 DOMAIN-SUFFIX,play-cdn8.com
-DOMAIN-SUFFIX,xg-5.frp.one
-DOMAIN-SUFFIX,oes-tgo-cf.ljhx.fun
-DOMAIN-SUFFIX,copilot.microsoft.com
-DOMAIN-SUFFIX,gemini.google.com
